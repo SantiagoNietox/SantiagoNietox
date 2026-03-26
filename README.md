@@ -57,9 +57,9 @@ Mi enfoque combina la construcción de aplicaciones web escalables con el análi
 ### 📊 Mis Estadísticas de GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SantiagoNietox&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Estadísticas de SantiagoNietox" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=SantiagoNietox&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Estadísticas de SantiagoNietox" />
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoNietox&layout=compact&theme=radical&hide_border=false" alt="Lenguajes más usados" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SantiagoNietox&layout=compact&theme=radical&hide_border=false" alt="Lenguajes más usados" />
 </p>
 
 <p align="center">
